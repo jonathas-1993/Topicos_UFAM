@@ -37,9 +37,3 @@ Departamento de Engenharia Elétrica – UFAM
 ## 👨‍🎓 Discente
 **Jonathas Tavares Neves**  
 Programa de Pós-Graduação em Engenharia Elétrica (PPGEE - UFAM)
-
----
-
-## 📄 Licença
-Este repositório tem fins exclusivamente acadêmicos e educacionais.  
-Distribuído sob a licença [MIT](LICENSE).
